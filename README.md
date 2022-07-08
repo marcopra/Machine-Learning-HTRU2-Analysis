@@ -6,8 +6,7 @@ In the first part, after an introduction to the dataset, we analyze the features
 The dataset is split into two files: Train.txt and Test.txt, inside the folder data.
 The analyzed pre-processing techniques are:
 -	Z-normalization
--	Quantile transformation
-- 	PCA
+- PCA
 
 The analyzed models are:
 -	MVG (Full, Naive Bayes, Tied, Tied Naive Bayes)
